@@ -37,7 +37,7 @@
     .hdr-navbar ul li {
         display: block;
         text-align: center;
-        padding:10px 0;
+        padding:13px 0;
         border-bottom: 1px solid rgba(0, 0, 0, 0.158);
     }
     .three-dot{
@@ -56,6 +56,7 @@
     }
     .hdr-navbar ul li a{
         margin: 0;
+        font-size:16px !important;
     }
     .banner-section {
         z-index: -11;
